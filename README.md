@@ -12,6 +12,11 @@ This expert advisor send the signal tou your chat to track your movement on the 
 
 Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en bandas Bollinger, ZigZag, regresion Fibonacci, Bull, Bear, Fractales para mercados foraneos y divisas, no olvida leer sobre el manual de uso con el comando /ayuda sugerencias y dudas pueden ser resueltas en el siguiente canal @Paixo_bot.
 
+| Indicadores personalizados       | Comados de interaccion           | Informes de mercado              |
+| -------------------------------- | -------------------------------- | -------------------------------- |
+| ![picture](Anaigu_Images/1.jpg)  | ![picture](Anaigu_Images/2.jpg)  | ![picture](Anaigu_Images/3.jpg)  |
+| ![picture](Anaigu_Images/4.jpg)  | ![picture](Anaigu_Images/5.jpg)  | ![picture](Anaigu_Images/6.jpg)  |
+
     Comando de uso:
 
     /inicio - Inicio de operaciones.
